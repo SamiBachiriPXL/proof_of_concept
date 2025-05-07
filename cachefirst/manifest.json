@@ -1,0 +1,10 @@
+{
+    "name": "Cache-First PWA",
+    "short_name": "Cache-First",
+    "description": "A simple PWA that uses the Cache-First strategy with Service Workers.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#317EFB"
+  }
+  

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cache-First Strategy with Service Worker</title>
+  <link rel="manifest" href="/manifest.json">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Cache-First Strategy Example</h1>
+  <p>This page uses a service worker with a Cache-First strategy for caching assets.</p>
+
+  <h2>Preferences Form</h2>
+  <form id="preferences-form">
+    <label for="language">Language:</label>
+    <input type="text" id="language" placeholder="Enter language" required><br><br>
+
+    <label for="theme">Theme:</label>
+    <input type="text" id="theme" placeholder="Enter theme" required><br><br>
+
+    <label for="sortOption">Sort By:</label>
+    <input type="text" id="sortOption" placeholder="Enter sort option" required><br><br>
+
+    <button type="submit">Save Preferences</button>
+  </form>
+
+  <script src="main.js"></script>
+</body>
+</html>
