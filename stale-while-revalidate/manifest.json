@@ -1,0 +1,10 @@
+{
+    "name": "Stale-while-revalidate PWA",
+    "short_name": "Stale-while-revalidate",
+    "description": "A simple PWA that uses the Stale-while-revalidate strategy with Service Workers.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#317EFB"
+  }
+  

@@ -1,0 +1,10 @@
+{
+    "name": "Network-First PWA",
+    "short_name": "Network-First",
+    "description": "A simple PWA that uses the Network-First strategy with Service Workers.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#317EFB"
+  }
+  
